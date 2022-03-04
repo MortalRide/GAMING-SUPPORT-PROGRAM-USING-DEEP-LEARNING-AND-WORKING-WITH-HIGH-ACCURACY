@@ -1,6 +1,21 @@
 # GAMING-SUPPORT-PROGRAM-USING-DEEP-LEARNING-AND-WORKING-WITH-HIGH-ACCURACY
 Gaming support program that uses deep learning and works with high accuracy
 
+__ ______ _ ____ _____
+\ \ / / __ \| | / __ \ | ____|
+\ \_/ / | | | | | | | |_ _| |__
+\ /| | | | | | | | \ \ / /___ \
+| | | |__| | |___| |__| |\ V / ___) |
+|_| \____/|______\____/ \_/ |____/ _____
+|__ __| __ \ /\ /\ | __ \
+| | | | | | / \ / \ | |__) |
+| | | | | |/ /\ \ / /\ \ | ___/
+| | | |__| / ____ \ / ____ \| |
+|_| |_____/_/ \_\/_/ \_\_|
+
+
+
+
 The project was made as an bachelor's thesis. 
 It was developed with Berkay Kaan TAŞKIN. 
 The project's advisor was Professor Ahmet Emir DİRİK.
