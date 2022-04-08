@@ -1,5 +1,7 @@
 # GAMING-SUPPORT-PROGRAM-USING-DEEP-LEARNING-AND-WORKING-WITH-HIGH-ACCURACY
 
+https://www.youtube.com/watch?v=ox-wHSmoWZk
+
 Also called as "Neural Network Target Detection and Aim Assistance Program (TDAAP)"
 
 The project was made as an bachelor's thesis. 
